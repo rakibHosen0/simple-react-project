@@ -1,0 +1,15 @@
+.player-card {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-gap: 10px;
+  width: 70%;
+  margin-left: 2rem;
+}
+.players-container {
+  display: flex;
+}
+.total-player {
+  text-align: center;
+  padding: 1rem;
+  color: orange;
+}
